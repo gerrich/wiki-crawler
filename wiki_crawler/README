@@ -1,0 +1,2 @@
+to start crawling simple.wikipedia.org just type:
+#> scrapy crawl wiki --nolog
